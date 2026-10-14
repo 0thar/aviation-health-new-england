@@ -10,7 +10,7 @@ How much does airport activity contribute to cancer risk in New England, and how
 - Aviation's share of total modeled cancer risk rarely exceeds 0.5% and passes 1% in only one county (Nantucket). On-road vehicles dominate in every state.
 - County averaging likely understates exposure for people living closest to runways, which is the main limitation of the available data.
 
-![Airport activity vs. modeled cancer risk, New England counties](figures/enplanements-vs-cancer-risk.png)
+![Airport activity vs. modeled cancer risk, New England counties](enplanements-vs-cancer-risk.png)
 
 ## Methods
 
@@ -21,5 +21,4 @@ How much does airport activity contribute to cancer risk in New England, and how
 ## Files
 
 - `paper.pdf`: full paper with literature review, figures, and policy discussion
-- `code/analysis.R`: data joins, models, and figures
-- `figures/`: key chart
+- `analysis.R`: data joins, models, and figures
